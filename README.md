@@ -37,7 +37,7 @@ The only library required for this project is python nltk library.
 
 I build the rule based classifier and used VADER and sentiwornet corpus and than determine their accuracy, and than i followed the ml based Naive bayes classifier to train and test the dataset. 
 
-![RESULT]({{site.baseurl}}/https://github.com/Gaurav-Pande/Sentiment-Analysis/blob/master/assets/RESULT.png)
+![RESULT] (https://github.com/Gaurav-Pande/Sentiment-Analysis/blob/master/assets/RESULT.png?raw=true)
 
 You can see that clearly the approach followed by ML is more accurate and robust in comparision to the rule based classifier.
 The reason for this increase in accuracy for the ML based classifier is because the ml based classifer are built while training the model using "context we want to train". To understand this, lets take an example: we know that whale can belong to the category of mammal(Members of the infraorder Cetacea) or it can belong to the category of fish as well. So if a feature is whale feeded to the ml classifier what should it declare it? Should it declare it a mammal or fish? The interesting thing here is the we can train the ml model here with the example or contexts to figure out a new feature sets. For example we can train the model saying: if it moves like a fish and if it looks like a fish declare it a fish. so we can build our model in the context we want them to be build.
