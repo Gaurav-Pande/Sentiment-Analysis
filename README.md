@@ -108,7 +108,7 @@ we can see above that denominator of both the p(positive/t) and p(negative/t) is
 
 ## Things To Do:
 
-* I also build a spark-ml app for analysis of twitter sentiment. This is just a very basic learning project that I did in my college to learn about machine learning. Currently I am working on stemming Algorithms to analyse the twitter streams more efficiently.
+* I also build a spark-ml app for analysis of twitter sentiment. This is just a very basic learning project that I did in my college to learn about machine learning. 
 
 * learn other algorithms like SVM, Random forest for sentiment analysis
 
