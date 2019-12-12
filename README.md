@@ -25,7 +25,7 @@ Business Businesses may use sentiment analysis on blogs, review websites etc. to
  
 I have used the dataset build by the cornell university movie reviews dataset. This dataset contains 10,000 reviews on the movie. I have attached the dataset in the rt-polaritydata directory folder inside this repository. This data set contains 5000 positive reviews and 5000 negative reviews. I have built a rule based binary classifier(using corpus VADER and SentiwordNet) and ml based classifier(Naive Bayes classifier) to do the comparision between the two.
  
-You can also download the datasets from the cornell wesite as well: [Linke](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+You can also download the datasets from the cornell wesite as well: [Link](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
  
  
 ## Requirements
