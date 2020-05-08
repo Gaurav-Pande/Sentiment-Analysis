@@ -1,5 +1,15 @@
 # Sentiment-Analysis
-Project to compare Rule based and ML based sentiment analysis techniques(a binary classification problem)
+
+[UPDATED]:
+
+
+This Project now have 2 components:
+
+1. Learn Sentiment analysis on Yelp reviews using pytorch deep learning models. The idea is to learn the basics of NLP.
+2. A small project to compare Rule based and ML based sentiment analysis techniques(a binary classification problem)
+
+[TODO]:
+* Add readme for pytorch.
 
 ### Contents:
 
